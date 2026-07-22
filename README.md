@@ -1,5 +1,8 @@
 # Barcode Generator for Adobe Illustrator
 
+<img width="500" height="327" alt="image" src="https://github.com/user-attachments/assets/b7b78aa1-6811-43ca-8e5a-69e61ceb3e47" />
+
+
 An ExtendScript (`.jsx`) that generates print-ready vector barcodes directly in
 Illustrator. No plugins, no web services, no fonts required — everything is
 drawn as native paths on a new layer.
